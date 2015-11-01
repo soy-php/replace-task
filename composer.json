@@ -1,0 +1,19 @@
+{
+  "name": "soy-php/replace-task",
+  "description": "Replace task for Soy",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rick Kuipers",
+      "email": "io@rskuipers.com"
+    }
+  ],
+  "require": {
+    "soy-php/soy": "dev-develop"
+  },
+  "autoload": {
+    "psr-4": {
+      "Soy\\Replace\\": "src/Soy/Replace/"
+    }
+  }
+}
