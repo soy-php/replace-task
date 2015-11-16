@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "soy-php/soy": "dev-develop"
+    "soy-php/soy": "0.1.*"
   },
   "autoload": {
     "psr-4": {
